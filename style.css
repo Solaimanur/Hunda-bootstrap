@@ -1,0 +1,50 @@
+.Background{
+    background-color: #264653;
+}
+.navcolor{
+    color: White;
+}
+.login{
+    background-color: #E76F51;
+    margin-top: 7px;
+    border-radius: 5px;
+    text-align: center
+}
+button{
+    border-radius: 5px;
+    background-color: #E76F51;
+    border-width: 0px;
+    color: white;
+    padding: 8px 38px;
+}
+.bike img{
+    width: 100%;
+}
+.hover:hover{
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid black;
+}
+.shadoww img {
+    border-radius: 50%;
+    width: 150px;
+}
+.shadoww{
+    text-align: center;
+}
+.shadow{
+    border-radius: 5px;
+}
+.fas{
+    color: #E76F51;
+}
+.text-E7{
+    color: #E76F51;
+}
+.far{
+    color: black;
+}
+.fa-bicycles{
+    font-size: 48px;
+    
+}
